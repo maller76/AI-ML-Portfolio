@@ -36,8 +36,18 @@ Beyond technical innovations, I wanted to point out the learning that occurred a
 ## Conclusion:
 The overriding narrative of the presentation is that there has been a clear path of AI development, informed first by the prior histories of symbolic logic and expert systems, then deep learning methods, to finally generate models, as we can see today.
 Since this project worked as an example, I am confident in the ability to demonstrate these skills and demonstrate integrating technical knowledge, critical analysis skills, and design skills into communication and education. I'm confident to transfer these and other skills into a professional context in analytics or AI development.
-
 Artifact: AI Timeline presentation [AI_Timeline_Presentation.pptx] (https://www.canva.com/design/DAG3ZM-v1vQ/hOIxAe9U-4xw3Zvooshg1w/edit?utm_content=DAG3ZM-v1vQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+##Reflection
+Producing the timeline gave me insight into how every point in AI's history contributes to the intelligent systems we have today. It also helped me understand that innovation is often built from experiments, failures, and learning.  
+This artifact helped me deepen my research and presentation skills and my ability to convey complicated ideas about AI in an accessible and meaningful way.
+This experience helped reinforce my goal of becoming a data analyst who not only analyzes data, but who understands the context of the technology that drives potential decisions and outcomes.
+
+##About This Portfolio
+This portfolio is a reflection of my professional development in AI and Data Analytics. It tells a story of my ability to integrate my data driven skills, technical skill development, and reflective learning.  Each artifact represents a significant moment of applying AI and analytics concepts to a real-world context.
+This portfolio is both a personal record of my professional development, and also as a demonstration of how I plan to combine data analytics, machine learning, and human-centered design development to create meaningful innovation.
+
+
 
 
 
