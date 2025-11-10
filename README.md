@@ -47,8 +47,8 @@ This experience helped reinforce my goal of becoming a data analyst who not only
 
 # Artifact 2 – AI Lab: Android-Based School Management Chatbot
 
- ![School Management Chatbot Screenshot](Screenshot_2025-11-09_185409.png)
- ![School Management Screenshot](Screenshot_2025-11-09_185418.png)
+ ![School Management Chatbot Screenshot](https://github.com/maller76/AI-ML-Portfolio/blob/main/Screenshot%202025-11-09%20185409.png)
+ ![School Management Screenshot](https://github.com/maller76/AI-ML-Portfolio/blob/main/Screenshot%202025-11-09%20185418.png)
  
 ## Overview
 This project demonstrates my work in the AI Lab, where my team built a School Management Chatbot using Chatbase. The chatbot transforms a static research paper into an interactive learning assistant that explains the objectives, architecture, and benefits of an Android-based school-management system integrated with Firebase services. It supports users—teachers, students, and parents—by answering questions about attendance, marks, fees, and notifications.
