@@ -45,50 +45,50 @@ This artifact helped me deepen my research and presentation skills and my abilit
 This experience helped reinforce my goal of becoming a data analyst who not only analyzes data, but who understands the context of the technology that drives potential decisions and outcomes.
 
 
-#Artifact 2 – AI Lab: Android-Based School Management Chatbot
+# Artifact 2 – AI Lab: Android-Based School Management Chatbot
 
-##Overview
+## Overview
 This project demonstrates my work in the AI Lab, where my team built a School Management Chatbot using Chatbase. The chatbot transforms a static research paper into an interactive learning assistant that explains the objectives, architecture, and benefits of an Android-based school-management system integrated with Firebase services. It supports users—teachers, students, and parents—by answering questions about attendance, marks, fees, and notifications.
 
-##Problem & Empathy
+## Problem & Empathy
 Traditional school-management processes are manual and paper-based, leading to inefficiency and poor communication. By empathizing with administrators, teachers, students, and parents, we identified the need for a centralized, real-time digital solution that simplifies daily academic operations.
 
-##Ideation & Planning
+## Ideation & Planning
 We envisioned a chatbot assistant that interprets and communicates insights from the research paper “Android-Based School Management System.”
-Key goals:
-Explain the system’s architecture and modules
-Summarize technologies such as Android Studio, Kotlin, and Firebase
-Provide concise, educational responses grounded in uploaded source data
 
-##Prototype & Technology Stack
+## Key goals:
+ - Explain the system’s architecture and modules
+ - Summarize technologies such as Android Studio, Kotlin, and Firebase
+ - Provide concise, educational responses grounded in uploaded source data
+
+## Prototype & Technology Stack
   Platform: Chatbase
 
-##Data Sources: SSRN paper + curated Q&A CSV dataset
+## Data Sources: SSRN paper + curated Q&A CSV dataset
 Model Configuration: Low-temperature retrieval for factual accuracy
 Testing & Validation
 
-##We evaluated performance with questions such as:
+## We evaluated performance with questions such as:
   “How does the attendance module work?”
   “Which technologies were used?”
 The chatbot scored highly on accuracy, coherence, and relevance, consistently summarizing module-specific details and system benefits.
 
-##Key Skills Demonstrated
-  Applying AI/ML concepts to education technology
-  Designing and training conversational AI systems
-  Structuring domain-specific datasets for retrieval QA
-  Testing user interactions and improving response quality
+## Key Skills Demonstrated
+ -  Applying AI/ML concepts to education technology
+ - Designing and training conversational AI systems
+ - Structuring domain-specific datasets for retrieval QA
+ - Testing user interactions and improving response quality
 
-##Outcome
+## Outcome
 The finished chatbot allows interactive exploration of research content through natural dialogue. It shows how AI tools like Chatbase can turn academic material into an engaging, accessible educational experience.
-
 👉 Try the Chatbot: [School Management Chatbot](https://www.chatbase.co/bjk5D2Cd7_DaP93zyrNsA/help)
 
-##Reflection
+## Reflection
 Developing this chatbot deepened my understanding of retrieval-based AI, data grounding, and human-centered design.
 It taught me how to train and evaluate chatbot models, interpret feedback, and refine conversational flows.
 This artifact reflects my ability to convert theoretical AI research into a practical, user-friendly digital solution.
 
-About This Artifact
+## About This Artifact
 This project supports the AI Lab’s goal of promoting hands-on learning with generative AI.
 It highlights my growth as a developer capable of designing intelligent, human-centered AI applications that bridge the gap between technology and education.
 
